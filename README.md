@@ -1,6 +1,6 @@
 # View Counter Badge
 
-![View counter badge](https://view-counter.jim60105.workers.dev)
+![View counter badge](https://view-counter-yoruka.jim60105.workers.dev)
 
 Count how many visitors any page gets. A simple solution to add a view counter badge to your readme files or web page.
 
